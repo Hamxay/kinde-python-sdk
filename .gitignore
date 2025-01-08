@@ -152,11 +152,6 @@ typings/
 
 
 ### VisualStudioCode template
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 *.code-workspace
 
 # Local History for Visual Studio Code
@@ -241,3 +236,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
